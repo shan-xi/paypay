@@ -1,3 +1,5 @@
 .idea/
 paypay.iml
+.DS_Store
+target/
 
